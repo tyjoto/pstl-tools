@@ -15,13 +15,13 @@ Allows one to:
 ## How to run
 
 ```
-python -m ipes <-additional flags> [options]
+python -m ipes.py <-additional flags> [options]
 ```
 
 ### Optional flags
 - -f, --filename	Data file to use
 - -s, --savename	Save plot and new csv with this name
-- -d, --deliminator	Deliminatior for csv file
+- -d, --delimiter	Deliminatior for csv file
 - -r, --skiprows	Skip # of rows
 
 
