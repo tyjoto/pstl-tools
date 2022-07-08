@@ -41,6 +41,11 @@ python -m ipes.py <-additional flags> [options]
 - l, legend		Legend location
 - x, xlabel		Define Xlabel
 - y, ylabel		Define Ylabel
+- s, scale      Change axes scale
+    - x, xscale Change x-scale
+    - y, yscale Change y-scale
+        - l, linear
+        - e, log
 
 
 
